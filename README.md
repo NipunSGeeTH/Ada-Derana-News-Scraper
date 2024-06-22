@@ -1,5 +1,5 @@
 
-  <h1>Ada Derana News Alert (Sinhala Language News)  Scraper</h1>
+  <h1>Ada Derana News Alert (Sinhala Language)  Scraper</h1>
 
   <p>This Python script scrapes news articles from <a href="https://sinhala.adaderana.lk/"> sinhala.adaderana.lk </a> and saves them in JSON format.</p>
 
@@ -7,9 +7,9 @@
 
   <ol>
     <li><strong>Clone the repository:</strong></li>
-      <pre><code>git clone https://github.com/nipunsgeeth/hiru-news-scraper-en.git</code></pre>
+      <pre><code>git clone https://github.com/NipunSGeeTH/Ada-Derana-News-Scraper.git</code></pre>
     <li><strong>Navigate to the project directory:</strong></li>
-      <pre><code>cd hiru-news-scraper-en</code></pre>
+      <pre><code>cd Ada-Derana-News-Scraper</code></pre>
     <li><strong>Install dependencies:</strong></li>
       <pre><code>pip install pip install requests
 pip install beautifulsoup4
@@ -31,7 +31,7 @@ pip install lxml
 
   <h2>Disclaimer</h2>
 
-  <p>This scraper is for educational purposes only. Please respect Hirunews.lk's terms of service and robots.txt file.</p>
+  <p>This scraper is for educational purposes only. Please respect adaderana.lk's terms of service and robots.txt file.</p>
 </body>
 </html>
 
